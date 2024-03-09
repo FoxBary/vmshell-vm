@@ -1,15 +1,15 @@
-<p><span style="font-size: 8pt;"><img class="alignnone size-full wp-image-33210" title="e51d080c0a93e9ee8e88f2af3b2e0ab8" src="https://vmshell.com/assets/img/vmshell-3years.png" alt="e51d080c0a93e9ee8e88f2af3b2e0ab8" width="1220" height="1244" /> </span><br /><span style="font-size: 8pt;"><strong>VmShell官网</strong>: <a href="https://vmshell.com" target="_blank" rel="noopener">https://vmshell.com</a>  <strong>ToToTel</strong>官网 <a href="https://tototel.com" target="_blank" rel="noopener">https://tototel.com</a> <strong>IP地址信息查询</strong>：<a href="https://vmshell.com/ip.php" target="_blank" rel="noopener">https://vmshell.com/ip.php</a></span><br /><span style="font-size: 8pt;"><strong>支付方式</strong>：Paypal/支付宝/比特币/USDT/信用卡</span><br /><span style="font-size: 8pt;"><strong>Affman提成</strong>：销售金额的<span style="color: #ff0000;">15.00%</span>,支持银行和支付宝/(PAYPAL)提现!</span><br /><span style="font-size: 8pt;"><strong>退款策略</strong>：大部分所有产品支持原路退款在3日新购以内</span></p>
+<p><span style="font-size: 8pt;"><img class="alignnone size-full wp-image-33210" title="e51d080c0a93e9ee8e88f2af3b2e0ab8" src="https://vmshell.com/assets/img/vmshell-3years.png" alt="e51d080c0a93e9ee8e88f2af3b2e0ab8" width="100%" height="100%" /> </span><br /><span style="font-size: 8pt;"><strong>VmShell官网</strong>: <a href="https://vmshell.com" target="_blank" rel="noopener">https://vmshell.com</a>  <strong>ToToTel</strong>官网 <a href="https://tototel.com" target="_blank" rel="noopener">https://tototel.com</a> <strong>IP地址信息查询</strong>：<a href="https://vmshell.com/ip.php" target="_blank" rel="noopener">https://vmshell.com/ip.php</a></span><br /><span style="font-size: 8pt;"><strong>支付方式</strong>：Paypal/支付宝/比特币/USDT/信用卡</span><br /><span style="font-size: 8pt;"><strong>Affman提成</strong>：销售金额的<span style="color: #ff0000;">15.00%</span>,支持银行和支付宝/(PAYPAL)提现!</span><br /><span style="font-size: 8pt;"><strong>退款策略</strong>：大部分所有产品支持原路退款在3日新购以内</span></p>
 <table style="width: 100%; border-collapse: collapse; border-color: #1f6bcf; border-style: groove; height: 253px;" border="1">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 100%; border-color: #1c1fd4; background-color: #16f272; height: 23px; text-align: center;" colspan="5"><span style="font-size: 8pt;"><strong>VmShell服务器-CMI香港三周年庆典(续费同价)</strong></span></td>
+<td style="width: 100%; border-color: #1c1fd4; background-color: #16f272; height: 23px; text-align: center;" colspan="5"><span style="font-size: 8pt;"><strong>VmShell-VPS-CMI香港三周年庆典(续费同价)</strong></span></td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>产品名称</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-香港媒体IP</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-香港ChatGPT</strong></span></td>
-<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-澳门IP-奈菲服务器</strong></span></td>
-<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-香港媒体IP服务器</strong></span></td>
+<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-澳门IP-奈菲-VPS</strong></span></td>
+<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-香港媒体IP-VPS</strong></span></td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;" width="93"><span style="font-size: 8pt;"><strong>配置信息</strong></span></td>
@@ -26,21 +26,21 @@
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">2 TB/月</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>香港CMI带宽</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI带宽</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">CMI.HK-700Mbps</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">CMI.HK-500Mbps</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">CMI.HK-500Mbps</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">CMI.HK-750Mbps</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>流媒体支持</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>流媒体</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">奈菲+迪士尼</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">无NF和D+,支持CHAT</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">支持奈菲,全球账号</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">奈菲+迪士尼</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>3日退款支持</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>3日退款</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">支持</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">支持</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">支持</span></td>
@@ -61,7 +61,7 @@
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong><span style="color: #ff0000;">130.00</span></strong> USD/年</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>测试IP/地址</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>测试IP</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"> <a href="http://156.251.176.254:7788" target="_blank" rel="noopener">156.251.176.254:7788</a></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"> <a href="http://156.251.176.254:7788" target="_blank" rel="noopener">156.251.176.254:7788</a></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"> <a href="http://156.251.176.254:7788" target="_blank" rel="noopener">156.251.176.254:7788</a></span></td>
@@ -80,14 +80,14 @@
 <table style="width: 100%; border-collapse: collapse; border-color: #1f6bcf; border-style: groove; height: 253px;" border="1">
 <tbody>
 <tr style="height: 23px;">
-<td style="width: 100%; border-color: #1c1fd4; background-color: #ededa1; height: 23px; text-align: center;" colspan="5"><span style="color: #000000; font-size: 8pt;"><strong>ToToTel全球服务器三周年庆典促销(续费同价)</strong></span></td>
+<td style="width: 100%; border-color: #1c1fd4; background-color: #ededa1; height: 23px; text-align: center;" colspan="5"><span style="color: #000000; font-size: 8pt;"><strong>ToToTel全球-VPS三周年庆典促销(续费同价)</strong></span></td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>产品名称</strong></span></td>
-<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">香港BGP-落地服务器</span></td>
-<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">香港BGP-建站服务器</span></td>
-<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">美国-媒体服务器</span></td>
-<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-原生香港IP服务器</strong></span></td>
+<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">香港BGP-落地-VPS</span></td>
+<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">香港BGP-建站-VPS</span></td>
+<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">美国-媒体-VPS</span></td>
+<td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>CMI-原生香港IP-VPS</strong></span></td>
 </tr>
 <tr style="height: 23px;">
 <td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;" width="93"><span style="font-size: 8pt;"><strong>配置信息</strong></span></td>
@@ -111,14 +111,14 @@
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">CMI.HK-1Gbps(共享)</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>流媒体支持</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>流媒体</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">奈菲+迪士尼/UDP</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">奈菲+迪士尼/免费灾备</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">ChatGPT/NF/D+全媒体</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">奈菲+迪士尼</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>3日退款支持</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>3日退款</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">不支持</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">不支持</span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;">不支持</span></td>
@@ -139,7 +139,7 @@
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong><span style="color: #ff0000;">101.40</span></strong> USD/年</span></td>
 </tr>
 <tr style="height: 23px;">
-<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>测试IP/地址</strong></span></td>
+<td style="width: 20%; border-color: #0f45d9; background-color: #eef5ce; height: 23px; text-align: center;"><span style="font-size: 8pt;"><strong>测试IP</strong></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><a href="http://103.172.135.6:7788" target="_blank" rel="noopener">103.172.135.6:7788</a></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><a href="http://103.172.135.6:7788" target="_blank" rel="noopener">103.172.135.6:7788</a></span></td>
 <td style="width: 20%; height: 23px; text-align: center;"><span style="font-size: 8pt;"><a href="http://103.182.97.218:8800" target="_blank" rel="noopener">103.182.97.218:8800</a></span></td>
